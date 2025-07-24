@@ -2,7 +2,7 @@
 
 Chatbot para Dividir Conta de Luz com WhatsApp e Python
 
-Este é um projeto pessoal criado para automatizar uma tarefa real do meu dia a dia: *dividir a conta de energia* entre mim  e meu irmão , com base nas leituras individuais dos nossos medidores.
+Este é um projeto pessoal criado para automatizar uma tarefa real do meu dia a dia: *dividir a conta de energia* entre duas pessoas , com base nas leituras individuais dos nossos medidores.
 
 O que esse chatbot faz
 
